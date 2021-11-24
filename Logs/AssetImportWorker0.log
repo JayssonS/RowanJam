@@ -1,0 +1,354 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.10f1 (297d780c91bc) revision 2719096'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 18363.1916; Version 1909; 64bit' Language: 'en' Physical Memory: 32702 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Storage Folder\Programs\Unity\UnityEditor\2020.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Storage Folder/Programs/Unity/Unity Projects/RowanJam
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52511
+Successfully changed project path to: D:/Storage Folder/Programs/Unity/Unity Projects/RowanJam
+D:/Storage Folder/Programs/Unity/Unity Projects/RowanJam
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 39.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path D:/Storage Folder/Programs/Unity/UnityEditor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Storage Folder/Programs/Unity/Unity Projects/RowanJam/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   
+    VRAM:     8088 MB
+    Driver:   27.21.14.5148
+Initialize mono
+Mono path[0] = 'D:/Storage Folder/Programs/Unity/UnityEditor/2020.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Storage Folder/Programs/Unity/UnityEditor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Storage Folder/Programs/Unity/UnityEditor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56412
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Storage Folder/Programs/Unity/UnityEditor/2020.3.10f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Storage Folder/Programs/Unity/UnityEditor/2020.3.10f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: D:/Storage Folder/Programs/Unity/UnityEditor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001436 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 42.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.935 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002433 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.801 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1460 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.3 MB.
+System memory in use after: 68.4 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 1896.
+Total: 1.545000 ms (FindLiveObjects: 0.117100 ms CreateObjectMapping: 0.033300 ms MarkObjects: 1.336400 ms  DeleteObjects: 0.057300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/snail_0.controller
+  artifactKey: Guid(2eb3c7dd9a5a77c48a475496612fc8c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/snail_0.controller using Guid(2eb3c7dd9a5a77c48a475496612fc8c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a811d352f4464123a38d610c8d25d22') in 0.028167 seconds
+  Import took 0.030181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.457070 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fabfcb768455f3515dade505f2fe55d') in 0.017498 seconds
+  Import took 0.019518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.068768 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '422494d37743258699c726d9381077ca') in 0.008096 seconds
+  Import took 0.010502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.216120 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ce908261632e96e137cb7a61bc822fc') in 0.002496 seconds
+  Import took 0.004715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007709 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ce908261632e96e137cb7a61bc822fc') in 0.002510 seconds
+  Import took 0.004489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.639170 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '964942b3340a02a8a9471c7601cf602a') in 0.003743 seconds
+  Import took 0.005963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005911 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '964942b3340a02a8a9471c7601cf602a') in 0.002516 seconds
+  Import took 0.004594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.543682 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28f9cdf05ab18f870316a57740606061') in 0.002479 seconds
+  Import took 0.004386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007861 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28f9cdf05ab18f870316a57740606061') in 0.002490 seconds
+  Import took 0.004405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.251048 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e325559b73c590dafed483e3d49a1024') in 0.002444 seconds
+  Import took 0.004519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005302 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e325559b73c590dafed483e3d49a1024') in 0.002370 seconds
+  Import took 0.004423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.588978 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1d629650a21a6cf8b39c61f60731d5d') in 0.003558 seconds
+  Import took 0.006675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004559 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1d629650a21a6cf8b39c61f60731d5d') in 0.002424 seconds
+  Import took 0.004277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.813007 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c60a0336496d84c6343e50d063d132e') in 0.002522 seconds
+  Import took 0.004456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005580 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c60a0336496d84c6343e50d063d132e') in 0.002586 seconds
+  Import took 0.004750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.329041 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65b55e43c0b27b10daa8b807469bdd2') in 0.002695 seconds
+  Import took 0.004791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007120 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65b55e43c0b27b10daa8b807469bdd2') in 0.003807 seconds
+  Import took 0.006316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.385607 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '479318e192d977490a6a385f538f58ec') in 0.002416 seconds
+  Import took 0.004277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004463 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '479318e192d977490a6a385f538f58ec') in 0.003578 seconds
+  Import took 0.006139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.452516 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7209ed7d274c88f199c3631779ffc30') in 0.002631 seconds
+  Import took 0.004606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004740 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7209ed7d274c88f199c3631779ffc30') in 0.002839 seconds
+  Import took 0.005801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.657004 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf54b42124e74d2c03d0bc5b6255627c') in 0.003314 seconds
+  Import took 0.006164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003792 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf54b42124e74d2c03d0bc5b6255627c') in 0.003022 seconds
+  Import took 0.005120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.820555 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bbc483c9902754ab4412741a9451ed0') in 0.003751 seconds
+  Import took 0.006135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003921 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bbc483c9902754ab4412741a9451ed0') in 0.002426 seconds
+  Import took 0.004328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.429749 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42bde6805017e5374da92af87eba4318') in 0.002689 seconds
+  Import took 0.005018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006411 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42bde6805017e5374da92af87eba4318') in 0.002798 seconds
+  Import took 0.005160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.384021 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34dbf29c9cb50536879ed93b0b9314b7') in 0.002453 seconds
+  Import took 0.004561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009259 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34dbf29c9cb50536879ed93b0b9314b7') in 0.002436 seconds
+  Import took 0.004366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.599137 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f766a3670f16624effb464f035c8362b') in 0.002520 seconds
+  Import took 0.004736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005097 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f766a3670f16624effb464f035c8362b') in 0.002595 seconds
+  Import took 0.004584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.216614 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa2c4879179cc22f6343edfe66240be2') in 0.002462 seconds
+  Import took 0.004378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005517 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa2c4879179cc22f6343edfe66240be2') in 0.002636 seconds
+  Import took 0.004842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.186526 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42b285db9ee30f9e0647cabf3d454e91') in 0.002392 seconds
+  Import took 0.004557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005076 seconds.
+  path: Assets/pixel-line-platformer/Tiles/New Palette.prefab
+  artifactKey: Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pixel-line-platformer/Tiles/New Palette.prefab using Guid(f3f7cf579c998864096e7f4cce406421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42b285db9ee30f9e0647cabf3d454e91') in 0.002502 seconds
+  Import took 0.004503 seconds .
+
