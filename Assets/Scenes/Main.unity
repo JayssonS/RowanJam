@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 563566252}
   - component: {fileID: 563566251}
   m_Layer: 0
-  m_Name: Ground
+  m_Name: bg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1385,15 +1385,15 @@ Tilemap:
   m_AnimatedTiles: {}
   m_TileAssetArray:
   - m_RefCount: 2
-    m_Data: {fileID: 11400000, guid: d9ad2392eb1cf3941b81e76af972a232, type: 2}
+    m_Data: {fileID: 0}
   - m_RefCount: 2
-    m_Data: {fileID: 11400000, guid: 44e0aa213628627448c66d26e1876e8e, type: 2}
+    m_Data: {fileID: 0}
   - m_RefCount: 103
-    m_Data: {fileID: 11400000, guid: 7be0ff02e67218d45a878a2fb8f3e74a, type: 2}
+    m_Data: {fileID: 0}
   - m_RefCount: 1
-    m_Data: {fileID: 11400000, guid: de389b9139bdce54eb5402e17aa6fe74, type: 2}
+    m_Data: {fileID: 0}
   - m_RefCount: 9
-    m_Data: {fileID: 11400000, guid: 2b25d6bfb5b06fc499be81f3e8003c15, type: 2}
+    m_Data: {fileID: 0}
   m_TileSpriteArray:
   - m_RefCount: 2
     m_Data: {fileID: 1873917168148291061, guid: fec730654a1895040b6f311840e099e1, type: 3}
@@ -1565,7 +1565,7 @@ GameObject:
   - component: {fileID: 828344829}
   - component: {fileID: 828344828}
   m_Layer: 0
-  m_Name: Ground (1)
+  m_Name: collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2815,15 +2815,15 @@ Tilemap:
   m_AnimatedTiles: {}
   m_TileAssetArray:
   - m_RefCount: 2
-    m_Data: {fileID: 11400000, guid: d9ad2392eb1cf3941b81e76af972a232, type: 2}
+    m_Data: {fileID: 0}
   - m_RefCount: 2
-    m_Data: {fileID: 11400000, guid: 44e0aa213628627448c66d26e1876e8e, type: 2}
+    m_Data: {fileID: 0}
   - m_RefCount: 103
-    m_Data: {fileID: 11400000, guid: 7be0ff02e67218d45a878a2fb8f3e74a, type: 2}
+    m_Data: {fileID: 0}
   - m_RefCount: 1
-    m_Data: {fileID: 11400000, guid: de389b9139bdce54eb5402e17aa6fe74, type: 2}
+    m_Data: {fileID: 0}
   - m_RefCount: 9
-    m_Data: {fileID: 11400000, guid: 2b25d6bfb5b06fc499be81f3e8003c15, type: 2}
+    m_Data: {fileID: 0}
   m_TileSpriteArray:
   - m_RefCount: 2
     m_Data: {fileID: 1873917168148291061, guid: fec730654a1895040b6f311840e099e1, type: 3}
